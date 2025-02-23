@@ -1,6 +1,5 @@
 <h1 align="center" ><img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"/> </h1>
     <h1 align="center">Hi. My name is Htet Aung Hlyan<img src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif" width="70" height="70" /></h1>
-     <h1 align="center"> </h1>
 =======================================================================================================================================
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"  />
 
