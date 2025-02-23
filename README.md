@@ -5,7 +5,7 @@ university student
 I'm studying knowledge engineering in UCSY . I started with HTML and now I am learning subjects related to AI and machine learning . I'm also interested in data science .
 * 🌍  I'm based in Yangon .
 * ✉️  You can contact me at [htetaunghlyan13@gmail.com](mailto:htetaunghlyan13@gmail.com)
-* 🧠  I'm learning Phython & Django .
+* 🧠  I'm learning Python & Django .
 * 🤝  I'm open to collaborating on Machine Learning and Data Science projects .
 
 ### Skills
