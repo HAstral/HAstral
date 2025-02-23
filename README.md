@@ -2,7 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"  />
 
-University student
 ------------------
 I'm studying knowledge engineering in UCSY . I started with HTML and now I am learning subjects related to AI and machine learning . I'm also interested in data science .
 * 🌍  I'm based in Yangon .
