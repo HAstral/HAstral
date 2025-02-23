@@ -23,11 +23,7 @@ I'm studying knowledge engineering in UCSY . I started with HTML and now I am le
     <img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="32" height="32" />
   </a>
   <a href="https://www.github.com/HAstral" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-    </picture>
+   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="32" height="32" />
   </a>
   <a href="http://www.instagram.com/htetaung.hlyan.77" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="32" height="32" />
@@ -36,11 +32,10 @@ I'm studying knowledge engineering in UCSY . I started with HTML and now I am le
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="32" height="32" />
   </a>
   <a href="https://www.x.com/EmpyreanHlyan" target="_blank" rel="noreferrer">
-    <img src="" width="32" height="32" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="32" height="32" />
   </a>
   <a href="https://www.youtube.com/@htetaunghlyans.t.h3444" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/74![371907030_TWITTER_ICON_TRANSPARENT_1080](https://github.com/user-attachments/assets/100812cf-ecf6-4fba-bd21-0327e4ff8fad)
-038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="32" height="32" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="32" height="32" />
   </a>
     <a href="https://www.threads.net/@htetaung.hlyan.77" target="_blank" rel="noreferrer">
     <picture>
