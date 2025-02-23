@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Htet Aung Hlyan
 =======================================================================================================================================
-university student
+University student
 ------------------
 I'm studying knowledge engineering in UCSY . I started with HTML and now I am learning subjects related to AI and machine learning . I'm also interested in data science .
 * 🌍  I'm based in Yangon .
@@ -36,10 +36,11 @@ I'm studying knowledge engineering in UCSY . I started with HTML and now I am le
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="32" height="32" />
   </a>
   <a href="https://www.x.com/EmpyreanHlyan" target="_blank" rel="noreferrer">
-    <img src="[https://private-user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDAyODk4NDQsIm5iZiI6MTc0MDI4OTU0NCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NjAtY2M0ZmU4OGMtN2Y3YS00MWQ4LWI0NDktMzRiN2ExNzhjMWM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjIzVDA1NDU0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRmYmYyN2I5YWUwNDk2ZjJiN2JhYzM1YmIwMGQxYmNjNTFjMDE1OTMzM2MxMDRmMjE1Y2RkZGZhYzBhZWUzYmMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.H381U9QfsEIhpmuRWeK1EiStOhS5e8COJACBacFaqdY](https://private-user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDAyOTEzMjksIm5iZiI6MTc0MDI5MTAyOSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NjAtY2M0ZmU4OGMtN2Y3YS00MWQ4LWI0NDktMzRiN2ExNzhjMWM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjIzVDA2MTAyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI1NTUzMzJhMTRhOGNlMzUxYTYyOTNiM2VlMGQ4NGJhNjMyNzdiY2VjOWY4ZmY3ZmM2Yjg3MTc0NmE0ZTIxOTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.fpPlUvJET5yjOszjtJx85zxD0f5d5Em9jtzsI-1ioUU)" width="32" height="32" />
+    <img src="" width="32" height="32" />
   </a>
   <a href="https://www.youtube.com/@htetaunghlyans.t.h3444" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="32" height="32" />
+    <img src="https://user-images.githubusercontent.com/74![371907030_TWITTER_ICON_TRANSPARENT_1080](https://github.com/user-attachments/assets/100812cf-ecf6-4fba-bd21-0327e4ff8fad)
+038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="32" height="32" />
   </a>
     <a href="https://www.threads.net/@htetaung.hlyan.77" target="_blank" rel="noreferrer">
     <picture>
