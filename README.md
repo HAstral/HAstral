@@ -82,6 +82,6 @@ I'm studying knowledge engineering in UCSY . I started with HTML and now I am le
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HAstral&layout=compact&hide_border=true&theme=tokyonight" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HAstral&layout=compact&hide_border=true&theme=default" />
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAstral&layout=compact&hide_border=true&theme=default" />
+    
   </picture>
 </p>
